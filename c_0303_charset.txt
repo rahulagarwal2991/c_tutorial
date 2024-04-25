@@ -1,0 +1,15 @@
+alphabets -> words -> sentences -> paragraph
+
+alphabets and special chars -> constants , variables , keywords -> statements -> program
+
+
+alphabets and special chars: 
+
+C char set: alphabet + digit + special symbol
+
+alphabet -> a-z , A-z
+digits -> 0-9
+special symbol: !@#$%^&*(){}|
+
+
+constants , variables , keywords:

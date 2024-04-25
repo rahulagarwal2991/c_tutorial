@@ -1,0 +1,12 @@
+What is software? 
+
+1. system s/W: 
+    micorporocessor instruction
+    procedural programming
+    object oriented programming
+
+
+2. application s/w
+
+
+programming language
