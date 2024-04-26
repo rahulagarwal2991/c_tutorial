@@ -1,0 +1,76 @@
+constants
+1. Primary constants
+    integer 
+    real 
+    char
+2. seconday constants
+    array
+    pointer
+    structure
+    enum
+
+
+
+Interger constants: -2147483648 to -2147483647
+
+
+Real constant : 
+
+-3.4e38 to 3.4e38
+
+-3.4 * 10 POW(38)
+
+4.1e3
+-1.2e5
+
+char constants: 
+'A'
+'a'
+'1'
+'='
+
+
+variables :
+datatype variable_name = value/constant;
+
+int a = 100;
+float b = 10.0;
+char c = 'A';
+
+_4545hakhdkajh_
+
+_pie_
+__india_code
+country_01
+_01_conutry
+AppLe78
+
+# defining a variable
+int mobile;// declarartion
+mobile = 6767676;// initialize
+or 
+int mobile = 78787;
+mobile = 454;
+
+
+Keywords:
+
+auto    double      int         struct
+break   else        long        switch
+case    enum        register    typedef
+char    extern      return      union
+const   float        short      unsigned 
+continue  for       singed      void 
+default  goto       sizeof      volatile 
+do        if        static      while
+
+
+steps to compile a program
+compiler    code file  -o   filename.exe
+gcc         filename.c -o   output_file_name
+gcc         hello.c     -o  hello.exe
+
+
+steps to execute a program:
+./output_filename.extension
+./hello.exe
